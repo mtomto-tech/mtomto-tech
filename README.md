@@ -1,6 +1,6 @@
 - 競プロ
   - AtCoder (highest: 緑)
-- web開発
+- インターンにてweb開発
   - React Native, Expo
   - Next.js
   - Firebase
